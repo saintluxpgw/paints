@@ -63,3 +63,7 @@ body {
 .controls .controls__range {
   margin-bottom: 30px;
 }
+
+.copyright {
+  margin: 1%;
+}
